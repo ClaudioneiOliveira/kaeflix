@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Font End",
+            "descricao": "Um dia eu aprendo",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back End",
+            "descricao": "Este eu sei",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
